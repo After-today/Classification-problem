@@ -1,3 +1,5 @@
 # Classification-problem
 
 LogisticRegression.py为逻辑回归算法的python实现
+
+skl_log.py为利用scikit-learn进行逻辑回归做分类任务，同时解决拟合过程中出现的过拟合问题
